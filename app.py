@@ -1,3 +1,3 @@
 import streamlit as st
 
-st.write("<h1>Hello world!</h1>")
+st.write("Hello world!")
