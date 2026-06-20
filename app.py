@@ -19,6 +19,6 @@ chart_data = pd.DataFrame(
 st.bar_chart(chart_data)
 st.line_chart(chart_data)
 st.pie_chart(chart_data)
-
+st.write("practing again..")
 
 
